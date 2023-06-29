@@ -1028,7 +1028,7 @@ a {
   }
 }
 .cid-tqMQHOknjj {
-  background-image: url("../../../assets/images/shutterstock-1959079771-2000px-2000x1125.png");
+  background-image: url("../../../assets/images/falagutera-drawing-style-an-asian-woman-geek-in-his-35s-studing-eb8726fa-bf97-4286-84a9-c58c73353228-1376x864.png");
 }
 .cid-tqMQHOknjj .mbr-fallback-image.disabled {
   display: none;
@@ -1076,15 +1076,15 @@ a {
 .cid-ttNtYgVq44 .mbr-section-btn {
   color: #fafafa;
 }
-.cid-tqWVYjTm0T {
+.cid-tIvCflSBTJ {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #353535;
 }
-.cid-tqWVYjTm0T .mbr-fallback-image.disabled {
+.cid-tIvCflSBTJ .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tqWVYjTm0T .mbr-fallback-image {
+.cid-tIvCflSBTJ .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1093,38 +1093,39 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tqWVYjTm0T .content-wrapper {
+.cid-tIvCflSBTJ .content-wrapper {
   background: #fafafa;
 }
 @media (max-width: 991px) {
-  .cid-tqWVYjTm0T .content-wrapper .row {
-    flex-direction: column-reverse;
-  }
-  .cid-tqWVYjTm0T .content-wrapper .image-wrapper {
+  .cid-tIvCflSBTJ .content-wrapper .image-wrapper {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-tqWVYjTm0T .content-wrapper {
+  .cid-tIvCflSBTJ .content-wrapper {
     padding: 1rem;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  .cid-tqWVYjTm0T .content-wrapper {
+  .cid-tIvCflSBTJ .content-wrapper {
     padding: 2rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-tqWVYjTm0T .content-wrapper {
+  .cid-tIvCflSBTJ .content-wrapper {
     padding: 5rem 3rem;
   }
-  .cid-tqWVYjTm0T .content-wrapper .text-wrapper {
-    padding-right: 2rem;
+  .cid-tIvCflSBTJ .content-wrapper .text-wrapper {
+    padding-left: 2rem;
   }
 }
-.cid-tqWVYjTm0T .image-wrapper img {
+.cid-tIvCflSBTJ .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-tIvCflSBTJ .mbr-text,
+.cid-tIvCflSBTJ .mbr-section-btn {
+  text-align: left;
 }
 .cid-tDbA48ZFlf {
   padding-top: 6rem;
@@ -1443,7 +1444,7 @@ a {
   color: #fafafa;
 }
 .cid-tDQM0AQvLr {
-  background-image: url("../../../assets/images/shutterstock-1678969315-2000px-2000x1334.jpg");
+  background-image: url("../../../assets/images/falagutera-illustration-a-latim-software-developer-girl-looking-bb808057-5a14-4c6c-82dd-8199845b1e6d-1376x864.png");
 }
 .cid-tDQM0AQvLr .mbr-fallback-image.disabled {
   display: none;
@@ -1572,11 +1573,12 @@ a {
   background-color: #232323;
   overflow: hidden;
 }
-.cid-tr00KG2wUm .navbar-dropdown {
-  position: relative !important;
+.cid-tr00KG2wUm {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-tr00KG2wUm .navbar-dropdown {
-  position: absolute !important;
+.cid-tr00KG2wUm nav.navbar {
+  position: fixed;
 }
 .cid-tr00KG2wUm .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1887,6 +1889,7 @@ a {
 }
 .cid-tr00KG2wUm .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-tr00KG2wUm a.nav-link {
   display: flex;
